@@ -1,9 +1,17 @@
 # Validator enrolement procedure
 
+In order to prepare for our mainnet launch, selected validators are invited to participate to an *initial setup exercise*, where they'll provide their initial transactions. We'll then setup a test network, and ensure everyone can connect and start producing blocks.
+
+## Timeline
+
+- From March 19th to March 23rd: gentxs collections from validators
+- March 23rd: Final genesis generation
+- March 24th 15:00 UTC: network start
+
 ## Install fetchd and fetchcli
 
 Clone and install fetchd and fetchcli from https://github.com/fetchai/fetchd.
-Make sure to checkout the v0.6.3 release before installing
+Make sure to checkout the `v0.6.3` release before installing
 
 Once installed, verify you have the correct version with:
 

@@ -3,7 +3,7 @@
 ## Install fetchd and fetchcli
 
 Clone and install fetchd and fetchcli from https://github.com/fetchai/fetchd.
-Make sure to checkout the v0.6.2 release before installing
+Make sure to checkout the v0.6.3 release before installing
 
 Once installed, verify you have the correct version with:
 

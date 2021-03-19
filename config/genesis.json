@@ -74,7 +74,7 @@
     "mint": {
       "minter": {
         "annual_provisions": "0.000000000000000000",
-        "inflation": "0.130000000000000000"
+        "inflation": "0.030000000000000000"
       },
       "params": {
         "blocks_per_year": "6311520",
@@ -150,5 +150,5 @@
     }
   },
   "entropy": "",
-  "genesis_time": "2021-03-19T12:59:56.14057829Z"
+  "genesis_time": "2021-03-24T15:00:00.0Z"
 }

@@ -126,7 +126,7 @@
       }
     }
   },
-  "chain_id": "fetchai-prelaunch-1",
+  "chain_id": "prelaunch-1",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",

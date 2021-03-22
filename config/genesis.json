@@ -37,6 +37,21 @@
           "type": "cosmos-sdk/Account",
           "value": {
             "account_number": "0",
+            "address": "fetch18t3fcx50m0r8lzfwfp2rgtdp442l5z3zapzvhd",
+            "coins": [
+              {
+                "amount": "10000000000000000000",
+                "denom": "atestfet"
+              }
+            ],
+            "public_key": null,
+            "sequence": "0"
+          }
+        },
+        {
+          "type": "cosmos-sdk/Account",
+          "value": {
+            "account_number": "0",
             "address": "fetch1azqx48eqjjvu7y8335s6p7hfgckpsa8mvgyezp",
             "coins": [
               {

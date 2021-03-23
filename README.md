@@ -6,7 +6,8 @@ In order to prepare for our mainnet launch, selected validators are invited to p
 
 - From March 19th to March 23rd: gentxs collections from validators
 - March 23rd: Final genesis generation
-- March 24th 15:00 UTC: network start
+- March 24th, 12:00 UTC: collect final genesis txs  
+- March 24th, 15:00 UTC: network start
 
 ## Install fetchd and fetchcli
 

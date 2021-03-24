@@ -215,6 +215,126 @@
             "account_number": "0",
             "sequence": "0"
           }
+        },
+        {
+          "type": "cosmos-sdk/Account",
+          "value": {
+            "account_number": "0",
+            "address": "fetch16254fzc4yzuassvg08fffw8u6dxvf28fv9dnnx",
+            "coins": [
+              {
+                "amount": "1000000000000000000",
+                "denom": "atestfet"
+              }
+            ],
+            "public_key": null,
+            "sequence": "0"
+          }
+        },
+        {
+          "type": "cosmos-sdk/Account",
+          "value": {
+            "account_number": "0",
+            "address": "fetch16pvdy0jyxrh4gnv0tdjhpzqqt95x7krdm6spyw",
+            "coins": [
+              {
+                "amount": "1000000000000000000",
+                "denom": "atestfet"
+              }
+            ],
+            "public_key": null,
+            "sequence": "0"
+          }
+        },
+        {
+          "type": "cosmos-sdk/Account",
+          "value": {
+            "account_number": "0",
+            "address": "fetch13khad49h8aht652whwpfs3lfjsl2dw5sj7msqu",
+            "coins": [
+              {
+                "amount": "1000000000000000000",
+                "denom": "atestfet"
+              }
+            ],
+            "public_key": null,
+            "sequence": "0"
+          }
+        },
+        {
+          "type": "cosmos-sdk/Account",
+          "value": {
+            "account_number": "0",
+            "address": "fetch1rxfa5hu6wl2624a3fajf4843erv9f0acs2dsnj",
+            "coins": [
+              {
+                "amount": "1000000000000000000",
+                "denom": "atestfet"
+              }
+            ],
+            "public_key": null,
+            "sequence": "0"
+          }
+        },
+        {
+          "type": "cosmos-sdk/Account",
+          "value": {
+            "account_number": "0",
+            "address": "fetch13zc59un6v5vyfyvfud606zccgvarnc98932sqg",
+            "coins": [
+              {
+                "amount": "10000000000000000000",
+                "denom": "atestfet"
+              }
+            ],
+            "public_key": null,
+            "sequence": "0"
+          }
+        },
+        {
+          "type": "cosmos-sdk/Account",
+          "value": {
+            "account_number": "0",
+            "address": "fetch13gc9nq7h4k4t3enhfn868qa55anyw5gpy9nw6g",
+            "coins": [
+              {
+                "amount": "2000000000000000000",
+                "denom": "atestfet"
+              }
+            ],
+            "public_key": null,
+            "sequence": "0"
+          }
+        },
+        {
+          "type": "cosmos-sdk/Account",
+          "value": {
+            "account_number": "0",
+            "address": "fetch1283x8vlre64slwqzx9gm77r5sj4a2x8pthy0du",
+            "coins": [
+              {
+                "amount": "1000000000000000000",
+                "denom": "atestfet"
+              }
+            ],
+            "public_key": null,
+            "sequence": "0"
+          }
+        },
+        {
+          "type": "cosmos-sdk/Account",
+          "value": {
+            "account_number": "0",
+            "address": "fetch1dpxtnqdjw5s2ypgfx8r62unqlplu5twtz7ezyj",
+            "coins": [
+              {
+                "amount": "1000000000000000000",
+                "denom": "atestfet"
+              }
+            ],
+            "public_key": null,
+            "sequence": "0"
+          }
         }
       ]
     },
